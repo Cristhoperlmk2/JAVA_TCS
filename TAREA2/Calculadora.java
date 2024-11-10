@@ -1,8 +1,9 @@
 //3. Elaborar un programa en java que simule una calculadora para sumar, restar, dividir y calcular la potencias.
+//**************
 
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Calculadora {
     
     public static Double sumar(double num1, double num2){
         return num1 + num2;
